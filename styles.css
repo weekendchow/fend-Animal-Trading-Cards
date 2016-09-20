@@ -1,0 +1,42 @@
+/* add your CSS here */
+.fact {
+    font-style: italic;
+    }
+
+span {
+    font-weight: bold;
+    }
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  }
+
+body {
+   font-family: "Times New Roman", Georgia, Serif;
+   width: 300px;
+   padding: 20px;
+   margin: 30px;
+   border-width:1px;
+   border-style:solid;
+   border-color: rgba(177, 177, 191, 0.58);
+   box-shadow: 10px 10px 5px #d1d1d1;
+   }
+
+  .info{
+    padding: 15px;
+    margin: 0px;
+    border-width:1px;
+    border-style:solid;
+    border-color: rgba(177, 177, 191, 0.58);
+  }
+
+   img {
+     width: 300px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+   }
+
+   p {
+       text-align: justify;
+   }
